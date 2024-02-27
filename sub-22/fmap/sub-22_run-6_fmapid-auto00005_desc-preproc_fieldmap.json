@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-22_run-6_fmapid-auto00005_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-22_run-6_fmapid-auto00005_desc-coeff0_fieldmap.nii.gz",
+    "sub-22_run-6_fmapid-auto00005_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00005",
+  "IntendedFor": [
+    "func/sub-22_task-NumberComparison_run-6_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004400-fmriprep/sourcedata/raw/sub-22/func/sub-22_task-NumberComparison_run-6_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
